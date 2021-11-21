@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![2](https://komarev.com/ghpvc/?username=anwiwah)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anwiwah)
-[![Linkedin Badge](https://img.shields.io/badge/-Soumen%20Khara-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anwiwah/)](https://www.linkedin.com/in/anwiwah/)
+[![Linkedin Badge](https://img.shields.io/badge/-Soumen%anwiwah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anwiwah/)](https://www.linkedin.com/in/anwiwah/)
 [![Twitter Badge](http://img.shields.io/badge/-@anwiwah-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/anwiwah)](https://twitter.com/anwiwah)
 [![GitHub followers](https://img.shields.io/github/followers/anwiwah?label=Follow&style=social)](https://github.com/anwiwah/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-anwiwah-blue?style=social&logo=Instagram&link=https://www.instagram.com/anwiwah/)](https://www.instagram.com/anwiwah/)
