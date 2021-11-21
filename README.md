@@ -40,18 +40,9 @@ Here are some ideas to get you started:
 [![Twitter Badge](http://img.shields.io/badge/-@anwiwah-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/anwiwah)](https://twitter.com/anwiwah)
 [![GitHub followers](https://img.shields.io/github/followers/anwiwah?label=Follow&style=social)](https://github.com/anwiwah/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-anwiwah-blue?style=social&logo=Instagram&link=https://www.instagram.com/anwiwah/)](https://www.instagram.com/anwiwah/)
-## 📊 My Stats
-|Github Stats|Languages|
-|---|---|
-|[![]
-<p><img style="margin-top:1rem;" align="center" src="https://github-readme-stats.vercel.app/api?username=anwiwah&show_icons=true" alt="anwiwah" /></p>
-|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anwiwah&layout=compact)](https://github.com/anwiwah/github-readme-stats)|
 
-
-
-|[![](https://github-readme-stats.vercel.app/api?username=anwiwah)](https://github.com/anwiwah/github-readme-stats)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anwiwah&layout=compact)](https://github.com/anwiwah/github-readme-stats)|
 
 ## 📊 My Stats
 |Github Stats|Languages|
 |---|---|
-|[![](https://github-readme-stats.vercel.app/api?username=alfianandinugraha&show_icons=true)](https://github.com/alfianandinugraha/github-readme-stats)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfianandinugraha&layout=compact)](https://github.com/alfianandinugraha/github-readme-stats)|
+|[![](https://github-readme-stats.vercel.app/api?username=anwiwah&show_icons=true)](https://github.com/anwiwah/github-readme-stats)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anwiwah&layout=compact)](https://github.com/anwiwah/github-readme-stats)|
