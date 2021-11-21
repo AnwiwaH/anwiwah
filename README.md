@@ -2,7 +2,7 @@
 
 ![1](https://github.com/anwiwah/anwiwah/blob/main/banner.png)
 
-<p>Hi, I am Soumen Khara a passionate self-taught full stack web developer and a freelancer from India. I have a passion for web design and love to create things for web and mobile devices.</p>
+<p>Hi, I am Andi wira waHyudi a passionate self-taught full stack web developer and a freelancer from Indonesia. I have a passion for web design and love to create things for web and mobile devices.</p>
 
 <!--
 **AnwiwaH/anwiwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
