@@ -40,3 +40,9 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/50um3n?label=Follow&style=social)](https://github.com/50um3n/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-50um3n-blue?style=social&logo=Instagram&link=https://www.instagram.com/50um3n/)](https://www.instagram.com/50um3n/) 
 <p><img style="margin-top:1rem;" align="center" src="https://github-readme-stats.vercel.app/api?username=50um3n&show_icons=true" alt="50um3n" /></p>
+
+
+## 📊 My Stats
+|Github Stats|Languages|
+|---|---|
+|[![](https://github-readme-stats.vercel.app/api?username=alfianandinugraha)](https://github.com/alfianandinugraha/github-readme-stats)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfianandinugraha&layout=compact)](https://github.com/alfianandinugraha/github-readme-stats)|
