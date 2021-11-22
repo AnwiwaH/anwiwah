@@ -65,3 +65,38 @@ Here are some ideas to get you started:
 ➡️ [more Roadmap...](https://roadmap.sh/roadmaps)
 
 ---
+
+### 📕 Developer Benefit Roadmap
+
+➡️ [Network - Basic](#)
+<!-- ROADMAP:START -->
+- [Github](#)
+- [Codepen](#)
+- [Coder Wall](#)
+- [Stack Exchange](#)
+- [Geeklist](#)
+- [CSS Community](#)
+- [Code Ranch](#)
+<!-- ROADMAP:END -->
+
+➡️ [News - Tecnology](#)
+<!-- ROADMAP:START -->
+- [...](#)
+<!-- ROADMAP:END -->
+
+➡️ [Tutorial - Learning](#)
+<!-- ROADMAP:START -->
+- [...](#)
+<!-- ROADMAP:END -->
+
+➡️ [Practice - Challenges](#)
+<!-- ROADMAP:START -->
+- [...](#)
+<!-- ROADMAP:END -->
+
+➡️ [Jobs - Chances](#)
+<!-- ROADMAP:START -->
+- [...](#)
+<!-- ROADMAP:END -->
+
+---
