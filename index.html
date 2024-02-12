@@ -9,17 +9,33 @@
 </head>
 <body>
     <nav>
+        <img class="nav" src="favicon.svg" alt="" height="50px">
         <ul type="none">
-            <li class="nav"><img src="favicon.svg" alt="" height="50px"></li>
+            <li class="nav"></li>
             <li class="nav">Beranda</li>
             <li class="nav">Tentang Saya</li>
             <li class="nav">Portfolio</li>
             <li class="nav">Clients</li>
-            <li class="nav">Blog</li>
+            <li class="nav"><a href="blog.html">Blog</a></li>
             <li class="nav">Contact</li>
-            <li class="nav">Button</li>
         </ul>
-        
+        <p><button class="nav" onclick="myFunction()" id="dark-mode" class="light-mode">Darkmode</button></p>
     </nav>
+
+    <script>
+        function myFunction() {
+          var x = document.getElementById("dark-mode");
+          if (x.innerHTML === "Darkmode") {
+              var element = document.body;
+              element.classList.toggle("dark-mode");
+              x.innerHTML = "Lightmode";
+          } else {
+            x.innerHTML = "Darkmode";
+            var element = document.body;
+            element.classList.toggle("light-mode");
+          }
+        }
+    </script>
+        
 </body>
 </html>
