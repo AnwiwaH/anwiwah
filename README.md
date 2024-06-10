@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi 👋, I'm Zul!
+
+---
 
 <a href='https://anwiwah.my.id'>
   <!-- https://www.readmebox.com/ -->
