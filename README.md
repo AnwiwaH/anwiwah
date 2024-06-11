@@ -10,6 +10,7 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=anwiwah)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=gohugoio)
 
 ---
 
