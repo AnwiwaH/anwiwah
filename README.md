@@ -7,6 +7,8 @@
   <img src='./images/readmebox_anwiwah.svg' alt='tfkhdyt header' width='100%' />
 </a>
 
+---
+
 ![1](banner.png)
 
 <p>Hi, I am Andi wira waHyudi a passionate self-taught full stack web developer and a freelancer from Indonesia. I have a passion for web design and love to create things for web and mobile devices.</p>
