@@ -2,7 +2,7 @@
 
 ---
 
-<a href='https://anwiwah.my.id'>
+<a href='https://www.anwiwah.my.id'>
   <!-- https://www.readmebox.com/ -->
   <img src='./images/readmebox_anwiwah.svg' alt='tfkhdyt header' width='100%' />
 </a>
