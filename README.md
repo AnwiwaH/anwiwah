@@ -121,3 +121,9 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+termux version
+
+https://f-droid.org/id/packages/com.termux/
+Versi 0.119.0-beta.1 (1020) - Ditambahkan pada 21 Jun 2024
+
